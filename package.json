@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "name": "amazon-clone",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "sohail",
+  "license": "ISC"
+}

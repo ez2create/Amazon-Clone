@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navigation{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    margin: 10px;
+    background-color: rgba(0, 0, 0, 0.884);
+    color: white;
+}
+.logo{
+    height: 100%;
+
+}
+.logo img{
+    color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.location h6{
+    font-size: 15px;
+    color: white
+}
